@@ -1,1 +1,1 @@
-# djangosignup
+# djangosignup signup project
